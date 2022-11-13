@@ -1,8 +1,8 @@
 {
-"KPH-B": "{#Super_L(Down)}",
-"KPH-G": "{#Super_L(Right)}",
-"KPH-P": "{#Super_L(Up)}",
-"KPH-R": "{#Super_L(Left)}",
+"KPH-B": "{#Control_L(Alt_L(Down))}",
+"KPH-G": "{#Control_L(Alt_L(Right))}",
+"KPH-P": "{#Control_L(Alt_L(Up))}",
+"KPH-R": "{#Control_L(Alt_L(Left))}",
 "KPHR-B": "{#Alt_L(Super_L(Down))}",
 "KPHR-G": "{#Alt_L(Super_L(Right))}",
 "KPHR-P": "{#Alt_L(Super_L(Up))}",
